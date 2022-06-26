@@ -1,6 +1,8 @@
 # openRC
 Application of the Analysis of Cross-Sections
 
+Opensource pythons for Structural Designers and Research Students
+
 ## Components 
 
 ### Cross-Section Geometry 
